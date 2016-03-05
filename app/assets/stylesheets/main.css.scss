@@ -35,7 +35,7 @@ html, body {
   background: #392A49;
   z-index: 0;
 }
-body#index_page{background: url('background.jpg') no-repeat; background-size: auto 100%; background-position: 0px 30px;}
+body#index_page{background: asset_url('background.jpg') no-repeat; background-size: auto 100%; background-position: 0px 30px;}
 body{font-family: serif; font-size: 12pt;}
 h1{font-size: 50pt;}
 h1{margin-bottom: 0;}
