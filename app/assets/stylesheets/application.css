@@ -2,5 +2,7 @@
  *= require bootstrap.min
  *= require bootstrap-theme.min
  *= require main
+ *= require contact
+ *= require welcome
  *= require_self
  */

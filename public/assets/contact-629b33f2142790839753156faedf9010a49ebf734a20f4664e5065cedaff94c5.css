@@ -1,0 +1,11 @@
+/* line 1, /Users/Marxmus/rails/nicolemeachamhair/app/assets/stylesheets/contact.css.scss */
+.contact {
+  color: #FFF;
+}
+
+@media (max-width: 768px) {
+  /* line 6, /Users/Marxmus/rails/nicolemeachamhair/app/assets/stylesheets/contact.css.scss */
+  .contact h1 {
+    font-size: 40pt;
+  }
+}
