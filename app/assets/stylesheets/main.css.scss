@@ -1,6 +1,6 @@
 @font-face{
 	font-family: script;
-	src: asset_url('fonts/Italianno-Regular-OTF.otf');
+	src: font-url('fonts/Italianno-Regular-OTF.otf');
 }
 .heading, h1, .navbar-brand{font-family: script;}
 .heading{ font-size: 60pt; line-height: 60pt; text-align: right; text-shadow: 0 0 10px #222;}
