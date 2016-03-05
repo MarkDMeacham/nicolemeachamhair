@@ -12,3 +12,6 @@
 !/log/.keep
 /tmp
 .rbenv-vars
+
+/public/assets/*
+/shared/*
